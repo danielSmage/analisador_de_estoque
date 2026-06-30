@@ -1,0 +1,28 @@
+# Byte-compiled
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution
+build/
+dist/
+*.spec
+*.exe
+
+# Virtual env
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Data files (large)
+estoque99.csv
+
+# Config
+config.ini
+
+# OS
+Thumbs.db
+.DS_Store
